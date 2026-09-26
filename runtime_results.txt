@@ -1,0 +1,14 @@
+============================================
+ RUNTIME ANALYSIS FOR DIFFERENT INPUT SIZES
+============================================
+
+Input Size	Merge Sort(ns)	Binary Search(ns)
+--------------------------------------------------
+100		115664		326
+1000		1004904		213
+5000		5748729		334
+10000		12435421		374
+
+Complexities:
+Merge Sort    : O(n log n)
+Binary Search : O(log n)
