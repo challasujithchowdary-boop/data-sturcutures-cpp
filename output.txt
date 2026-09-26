@@ -1,0 +1,48 @@
+
+SAMPLE OUTPUT
+
+===== LINKED LIST =====
+
+Insert: 10
+10 inserted successfully.
+
+Insert: 20
+20 inserted successfully.
+
+Insert: 30
+30 inserted successfully.
+
+Display:
+Linked List: 10 -> 20 -> 30 -> NULL
+
+Search: 20
+20 found in the list.
+
+Delete: 20
+20 deleted successfully.
+
+Display:
+Linked List: 10 -> 30 -> NULL
+
+
+===== BINARY SEARCH TREE =====
+
+Insert: 50
+Insert: 30
+Insert: 70
+Insert: 20
+Insert: 40
+Insert: 60
+Insert: 80
+
+Inorder Traversal:
+20 30 40 50 60 70 80
+
+Search: 60
+60 found in BST.
+
+Delete: 30
+30 deleted successfully.
+
+Inorder Traversal:
+20 40 50 60 70 80
